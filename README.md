@@ -15,7 +15,6 @@ The project follows the following steps:
 
 4. Model Training and Evaluation: We train the selected model on the preprocessed data and evaluate its performance using metrics like precision, recall, and F1 score. We also perform cross-validation to ensure that the model is not overfitting.
 
-5. Deployment: Once the model is trained and evaluated, we deploy it to a production environment where it can be used to detect fraudulent transactions in real-time.
 
 ## Results
 The final model achieved an F1 score of 0.86, which indicates that it can accurately detect fraudulent transactions. The model can also identify 75% of the fraudulent transactions while maintaining a low false positive rate of 0.08%. The project demonstrates the effectiveness of machine learning in detecting credit card fraud and highlights the importance of data preprocessing and feature engineering in building a robust predictive model.
